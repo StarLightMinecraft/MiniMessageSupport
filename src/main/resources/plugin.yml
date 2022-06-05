@@ -1,0 +1,5 @@
+name: MiniMessageSupport
+version: '${version}'
+main: io.hikarilan.minimessagesupport.MiniMessageSupport
+api-version: 1.18
+authors: [ HikariLan ]
